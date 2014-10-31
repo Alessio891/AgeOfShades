@@ -1,0 +1,15 @@
+<!BFDSS v1.0!>
+Start Dialogo Root:
+Prima ancora di aprire gli occhi senti un dolore pulsante alla nuca e una fitta bruciante alla gamba. Risvegliandoti noti  di esser steso su un pavimento irregolare di roccia, viscido e freddo.
+:End Dialogo
+Start Scelte Root:
+[Continua_1] : <color=green>Continua.</color>
+:End Scelte
+Start Dialogo Continua_1 :
+Intorno le pareti di una caverna sconosciuta. Sopra di te c'è un buco nel soffitto, lievemente illuminato dalla tremolante  luce di una torcia, allora ricordi: Stavi controllando le caverne vicino al villaggio, quando sei caduto, scoprendo un  sistema di cunicoli inesplorato.
+La ferita potrebbe aver attirato attenzioni indesiderate e sei debole per la caduta, devi trovare l'uscita.
+:End Dialogo
+Start Scelte Continua_1 :
+[_End_] : Continua
+:End Scelte
+

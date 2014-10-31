@@ -1,0 +1,2646 @@
+fileFormatVersion: 2
+guid: 704af967104df6549a2db44bc2fb0931
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: chest
+    100004: chest-1
+    100006: clavicle_L
+    100008: clavicle_R
+    100010: deltoid_L
+    100012: deltoid_R
+    100014: eye_L
+    100016: eye_R
+    100018: f_index_01_L
+    100020: f_index_01_R
+    100022: f_index_02_L
+    100024: f_index_02_R
+    100026: f_index_03_L
+    100028: f_index_03_R
+    100030: f_middle_01_L
+    100032: f_middle_01_R
+    100034: f_middle_02_L
+    100036: f_middle_02_R
+    100038: f_middle_03_L
+    100040: f_middle_03_R
+    100042: f_pinky_01_L
+    100044: f_pinky_01_R
+    100046: f_pinky_02_L
+    100048: f_pinky_02_R
+    100050: f_pinky_03_L
+    100052: f_pinky_03_R
+    100054: f_ring_01_L
+    100056: f_ring_01_R
+    100058: f_ring_02_L
+    100060: f_ring_02_R
+    100062: f_ring_03_L
+    100064: f_ring_03_R
+    100066: foot_L
+    100068: foot_R
+    100070: forearm_L
+    100072: forearm_R
+    100074: hand_L
+    100076: Hand_Left
+    100078: hand_R
+    100080: head
+    100082: hips
+    100084: IK_Left_Arm
+    100086: IK_Left_Hook
+    100088: IK_Left_Knee
+    100090: IK_Left_Leg
+    100092: IK_Right_Arm
+    100094: IK_Right_Hook
+    100096: IK_Right_Knee
+    100098: IK_Right_Leg
+    100100: jaw
+    100102: lolid_L
+    100104: lolid_R
+    100106: neck
+    100108: palm_index_L
+    100110: palm_index_R
+    100112: palm_middle_L
+    100114: palm_middle_R
+    100116: palm_middle_R_001
+    100118: palm_pinky_L
+    100120: palm_pinky_R
+    100122: palm_ring_L
+    100124: palm_ring_R
+    100126: python
+    100128: python_base_humam-base
+    100130: python_base_humam-eyebrow001
+    100132: python_base_humam-eyelashes01
+    100134: python_base_humam-low_poly
+    100136: python_base_humam-penis01
+    100138: python_base_humam-tongue01
+    100140: shin_L
+    100142: shin_R
+    100144: spine
+    100146: spine-1
+    100148: thigh_L
+    100150: thigh_R
+    100152: thumb_01_L
+    100154: thumb_01_R
+    100156: thumb_02_L
+    100158: thumb_02_R
+    100160: thumb_02_R_001
+    100162: thumb_03_L
+    100164: thumb_03_R
+    100166: Thumb_Left
+    100168: toe_L
+    100170: toe_R
+    100172: tongue_base
+    100174: tongue_mid
+    100176: tongue_tip
+    100178: uplid_L
+    100180: uplid_R
+    100182: upper_arm_L
+    100184: upper_arm_R
+    400000: //RootNode
+    400002: chest
+    400004: chest-1
+    400006: clavicle_L
+    400008: clavicle_R
+    400010: deltoid_L
+    400012: deltoid_R
+    400014: eye_L
+    400016: eye_R
+    400018: f_index_01_L
+    400020: f_index_01_R
+    400022: f_index_02_L
+    400024: f_index_02_R
+    400026: f_index_03_L
+    400028: f_index_03_R
+    400030: f_middle_01_L
+    400032: f_middle_01_R
+    400034: f_middle_02_L
+    400036: f_middle_02_R
+    400038: f_middle_03_L
+    400040: f_middle_03_R
+    400042: f_pinky_01_L
+    400044: f_pinky_01_R
+    400046: f_pinky_02_L
+    400048: f_pinky_02_R
+    400050: f_pinky_03_L
+    400052: f_pinky_03_R
+    400054: f_ring_01_L
+    400056: f_ring_01_R
+    400058: f_ring_02_L
+    400060: f_ring_02_R
+    400062: f_ring_03_L
+    400064: f_ring_03_R
+    400066: foot_L
+    400068: foot_R
+    400070: forearm_L
+    400072: forearm_R
+    400074: hand_L
+    400076: Hand_Left
+    400078: hand_R
+    400080: head
+    400082: hips
+    400084: IK_Left_Arm
+    400086: IK_Left_Hook
+    400088: IK_Left_Knee
+    400090: IK_Left_Leg
+    400092: IK_Right_Arm
+    400094: IK_Right_Hook
+    400096: IK_Right_Knee
+    400098: IK_Right_Leg
+    400100: jaw
+    400102: lolid_L
+    400104: lolid_R
+    400106: neck
+    400108: palm_index_L
+    400110: palm_index_R
+    400112: palm_middle_L
+    400114: palm_middle_R
+    400116: palm_middle_R_001
+    400118: palm_pinky_L
+    400120: palm_pinky_R
+    400122: palm_ring_L
+    400124: palm_ring_R
+    400126: python
+    400128: python_base_humam-base
+    400130: python_base_humam-eyebrow001
+    400132: python_base_humam-eyelashes01
+    400134: python_base_humam-low_poly
+    400136: python_base_humam-penis01
+    400138: python_base_humam-tongue01
+    400140: shin_L
+    400142: shin_R
+    400144: spine
+    400146: spine-1
+    400148: thigh_L
+    400150: thigh_R
+    400152: thumb_01_L
+    400154: thumb_01_R
+    400156: thumb_02_L
+    400158: thumb_02_R
+    400160: thumb_02_R_001
+    400162: thumb_03_L
+    400164: thumb_03_R
+    400166: Thumb_Left
+    400168: toe_L
+    400170: toe_R
+    400172: tongue_base
+    400174: tongue_mid
+    400176: tongue_tip
+    400178: uplid_L
+    400180: uplid_R
+    400182: upper_arm_L
+    400184: upper_arm_R
+    4300000: python_base_humam-tongue01
+    4300002: python_base_humam-eyelashes01
+    4300004: python_base_humam-eyebrow001
+    4300006: python_base_humam-penis01
+    4300008: python_base_humam-low_poly
+    4300010: python_base_humam-base
+    7400000: Default Take
+    7400002: Attack_1
+    7400004: Attack_2
+    7400006: Attack_3
+    7400008: Attack_Pose
+    7400010: Marco
+    7400012: Walk
+    9500000: //RootNode
+    13700000: python_base_humam-base
+    13700002: python_base_humam-eyebrow001
+    13700004: python_base_humam-eyelashes01
+    13700006: python_base_humam-low_poly
+    13700008: python_base_humam-penis01
+    13700010: python_base_humam-tongue01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: python
+        weight: 1
+      - path: python/hips
+        weight: 1
+      - path: python/hips/IK_Left_Arm
+        weight: 0
+      - path: python/hips/IK_Right_Arm
+        weight: 0
+      - path: python/hips/spine
+        weight: 1
+      - path: python/hips/spine/spine-1
+        weight: 1
+      - path: python/hips/spine/spine-1/chest
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/Hand_Left
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L/f_index_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L/f_index_02_L/f_index_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L/f_middle_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L/f_middle_02_L/f_middle_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L/f_pinky_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L/f_pinky_02_L/f_pinky_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L/f_ring_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L/f_ring_02_L/f_ring_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/Thumb_Left
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/IK_Left_Hook
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R/f_index_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R/f_index_02_R/f_index_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R/f_middle_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R/f_middle_02_R/f_middle_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R_001
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R/f_pinky_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R/f_pinky_02_R/f_pinky_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R/f_ring_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R/f_ring_02_R/f_ring_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R_001
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/IK_Right_Hook
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/eye_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/eye_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base/tongue_mid
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base/tongue_mid/tongue_tip
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/lolid_L
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/lolid_R
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/uplid_L
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/uplid_R
+        weight: 0
+      - path: python/hips/thigh_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: python/hips/thigh_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: python/IK_Left_Leg
+        weight: 0
+      - path: python/IK_Left_Leg/IK_Left_Knee
+        weight: 0
+      - path: python/IK_Right_Leg
+        weight: 0
+      - path: python/IK_Right_Leg/IK_Right_Knee
+        weight: 0
+      - path: python_base_humam-base
+        weight: 0
+      - path: python_base_humam-eyebrow001
+        weight: 0
+      - path: python_base_humam-eyelashes01
+        weight: 0
+      - path: python_base_humam-low_poly
+        weight: 0
+      - path: python_base_humam-penis01
+        weight: 0
+      - path: python_base_humam-tongue01
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack_1
+      takeName: Attack_1
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: python
+        weight: 1
+      - path: python/hips
+        weight: 1
+      - path: python/hips/IK_Left_Arm
+        weight: 0
+      - path: python/hips/IK_Right_Arm
+        weight: 0
+      - path: python/hips/spine
+        weight: 1
+      - path: python/hips/spine/spine-1
+        weight: 1
+      - path: python/hips/spine/spine-1/chest
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/Hand_Left
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L/f_index_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L/f_index_02_L/f_index_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L/f_middle_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L/f_middle_02_L/f_middle_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L/f_pinky_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L/f_pinky_02_L/f_pinky_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L/f_ring_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L/f_ring_02_L/f_ring_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/Thumb_Left
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/IK_Left_Hook
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R/f_index_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R/f_index_02_R/f_index_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R/f_middle_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R/f_middle_02_R/f_middle_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R_001
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R/f_pinky_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R/f_pinky_02_R/f_pinky_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R/f_ring_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R/f_ring_02_R/f_ring_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R_001
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/IK_Right_Hook
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/eye_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/eye_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base/tongue_mid
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base/tongue_mid/tongue_tip
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/lolid_L
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/lolid_R
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/uplid_L
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/uplid_R
+        weight: 0
+      - path: python/hips/thigh_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: python/hips/thigh_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: python/IK_Left_Leg
+        weight: 0
+      - path: python/IK_Left_Leg/IK_Left_Knee
+        weight: 0
+      - path: python/IK_Right_Leg
+        weight: 0
+      - path: python/IK_Right_Leg/IK_Right_Knee
+        weight: 0
+      - path: python_base_humam-base
+        weight: 0
+      - path: python_base_humam-eyebrow001
+        weight: 0
+      - path: python_base_humam-eyelashes01
+        weight: 0
+      - path: python_base_humam-low_poly
+        weight: 0
+      - path: python_base_humam-penis01
+        weight: 0
+      - path: python_base_humam-tongue01
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack_2
+      takeName: Attack_2
+      firstFrame: -1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: python
+        weight: 1
+      - path: python/hips
+        weight: 1
+      - path: python/hips/IK_Left_Arm
+        weight: 0
+      - path: python/hips/IK_Right_Arm
+        weight: 0
+      - path: python/hips/spine
+        weight: 1
+      - path: python/hips/spine/spine-1
+        weight: 1
+      - path: python/hips/spine/spine-1/chest
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/Hand_Left
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L/f_index_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L/f_index_02_L/f_index_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L/f_middle_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L/f_middle_02_L/f_middle_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L/f_pinky_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L/f_pinky_02_L/f_pinky_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L/f_ring_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L/f_ring_02_L/f_ring_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/Thumb_Left
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/IK_Left_Hook
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R/f_index_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R/f_index_02_R/f_index_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R/f_middle_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R/f_middle_02_R/f_middle_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R_001
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R/f_pinky_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R/f_pinky_02_R/f_pinky_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R/f_ring_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R/f_ring_02_R/f_ring_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R_001
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/IK_Right_Hook
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/eye_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/eye_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base/tongue_mid
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base/tongue_mid/tongue_tip
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/lolid_L
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/lolid_R
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/uplid_L
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/uplid_R
+        weight: 0
+      - path: python/hips/thigh_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: python/hips/thigh_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: python/IK_Left_Leg
+        weight: 0
+      - path: python/IK_Left_Leg/IK_Left_Knee
+        weight: 0
+      - path: python/IK_Right_Leg
+        weight: 0
+      - path: python/IK_Right_Leg/IK_Right_Knee
+        weight: 0
+      - path: python_base_humam-base
+        weight: 0
+      - path: python_base_humam-eyebrow001
+        weight: 0
+      - path: python_base_humam-eyelashes01
+        weight: 0
+      - path: python_base_humam-low_poly
+        weight: 0
+      - path: python_base_humam-penis01
+        weight: 0
+      - path: python_base_humam-tongue01
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack_3
+      takeName: Attack_3
+      firstFrame: -1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: python
+        weight: 1
+      - path: python/hips
+        weight: 1
+      - path: python/hips/IK_Left_Arm
+        weight: 0
+      - path: python/hips/IK_Right_Arm
+        weight: 0
+      - path: python/hips/spine
+        weight: 1
+      - path: python/hips/spine/spine-1
+        weight: 1
+      - path: python/hips/spine/spine-1/chest
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/Hand_Left
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L/f_index_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L/f_index_02_L/f_index_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L/f_middle_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L/f_middle_02_L/f_middle_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L/f_pinky_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L/f_pinky_02_L/f_pinky_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L/f_ring_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L/f_ring_02_L/f_ring_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/Thumb_Left
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/IK_Left_Hook
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R/f_index_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R/f_index_02_R/f_index_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R/f_middle_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R/f_middle_02_R/f_middle_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R_001
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R/f_pinky_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R/f_pinky_02_R/f_pinky_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R/f_ring_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R/f_ring_02_R/f_ring_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R_001
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/IK_Right_Hook
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/eye_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/eye_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base/tongue_mid
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base/tongue_mid/tongue_tip
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/lolid_L
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/lolid_R
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/uplid_L
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/uplid_R
+        weight: 0
+      - path: python/hips/thigh_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: python/hips/thigh_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: python/IK_Left_Leg
+        weight: 0
+      - path: python/IK_Left_Leg/IK_Left_Knee
+        weight: 0
+      - path: python/IK_Right_Leg
+        weight: 0
+      - path: python/IK_Right_Leg/IK_Right_Knee
+        weight: 0
+      - path: python_base_humam-base
+        weight: 0
+      - path: python_base_humam-eyebrow001
+        weight: 0
+      - path: python_base_humam-eyelashes01
+        weight: 0
+      - path: python_base_humam-low_poly
+        weight: 0
+      - path: python_base_humam-penis01
+        weight: 0
+      - path: python_base_humam-tongue01
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack_Pose
+      takeName: Attack_Pose
+      firstFrame: 2
+      lastFrame: 19.9200001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: python
+        weight: 1
+      - path: python/hips
+        weight: 1
+      - path: python/hips/IK_Left_Arm
+        weight: 0
+      - path: python/hips/IK_Right_Arm
+        weight: 0
+      - path: python/hips/spine
+        weight: 1
+      - path: python/hips/spine/spine-1
+        weight: 1
+      - path: python/hips/spine/spine-1/chest
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/Hand_Left
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L/f_index_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L/f_index_02_L/f_index_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L/f_middle_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L/f_middle_02_L/f_middle_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L/f_pinky_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L/f_pinky_02_L/f_pinky_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L/f_ring_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L/f_ring_02_L/f_ring_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/Thumb_Left
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/IK_Left_Hook
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R/f_index_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R/f_index_02_R/f_index_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R/f_middle_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R/f_middle_02_R/f_middle_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R_001
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R/f_pinky_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R/f_pinky_02_R/f_pinky_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R/f_ring_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R/f_ring_02_R/f_ring_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R_001
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/IK_Right_Hook
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/eye_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/eye_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base/tongue_mid
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base/tongue_mid/tongue_tip
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/lolid_L
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/lolid_R
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/uplid_L
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/uplid_R
+        weight: 0
+      - path: python/hips/thigh_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: python/hips/thigh_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: python/IK_Left_Leg
+        weight: 0
+      - path: python/IK_Left_Leg/IK_Left_Knee
+        weight: 0
+      - path: python/IK_Right_Leg
+        weight: 0
+      - path: python/IK_Right_Leg/IK_Right_Knee
+        weight: 0
+      - path: python_base_humam-base
+        weight: 0
+      - path: python_base_humam-eyebrow001
+        weight: 0
+      - path: python_base_humam-eyelashes01
+        weight: 0
+      - path: python_base_humam-low_poly
+        weight: 0
+      - path: python_base_humam-penis01
+        weight: 0
+      - path: python_base_humam-tongue01
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Marco
+      takeName: Marco
+      firstFrame: 0
+      lastFrame: 3
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: python
+        weight: 1
+      - path: python/hips
+        weight: 1
+      - path: python/hips/IK_Left_Arm
+        weight: 0
+      - path: python/hips/IK_Right_Arm
+        weight: 0
+      - path: python/hips/spine
+        weight: 1
+      - path: python/hips/spine/spine-1
+        weight: 1
+      - path: python/hips/spine/spine-1/chest
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/Hand_Left
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L/f_index_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L/f_index_02_L/f_index_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L/f_middle_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L/f_middle_02_L/f_middle_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L/f_pinky_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L/f_pinky_02_L/f_pinky_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L/f_ring_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L/f_ring_02_L/f_ring_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/Thumb_Left
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/IK_Left_Hook
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R/f_index_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R/f_index_02_R/f_index_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R/f_middle_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R/f_middle_02_R/f_middle_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R_001
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R/f_pinky_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R/f_pinky_02_R/f_pinky_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R/f_ring_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R/f_ring_02_R/f_ring_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R_001
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/IK_Right_Hook
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/eye_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/eye_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base/tongue_mid
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base/tongue_mid/tongue_tip
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/lolid_L
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/lolid_R
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/uplid_L
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/uplid_R
+        weight: 0
+      - path: python/hips/thigh_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: python/hips/thigh_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: python/IK_Left_Leg
+        weight: 0
+      - path: python/IK_Left_Leg/IK_Left_Knee
+        weight: 0
+      - path: python/IK_Right_Leg
+        weight: 0
+      - path: python/IK_Right_Leg/IK_Right_Knee
+        weight: 0
+      - path: python_base_humam-base
+        weight: 0
+      - path: python_base_humam-eyebrow001
+        weight: 0
+      - path: python_base_humam-eyelashes01
+        weight: 0
+      - path: python_base_humam-low_poly
+        weight: 0
+      - path: python_base_humam-penis01
+        weight: 0
+      - path: python_base_humam-tongue01
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: python
+        weight: 1
+      - path: python/hips
+        weight: 1
+      - path: python/hips/IK_Left_Arm
+        weight: 0
+      - path: python/hips/IK_Right_Arm
+        weight: 0
+      - path: python/hips/spine
+        weight: 1
+      - path: python/hips/spine/spine-1
+        weight: 1
+      - path: python/hips/spine/spine-1/chest
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/Hand_Left
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L/f_index_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_index_L/f_index_01_L/f_index_02_L/f_index_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L/f_middle_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_middle_L/f_middle_01_L/f_middle_02_L/f_middle_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L/f_pinky_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_pinky_L/f_pinky_01_L/f_pinky_02_L/f_pinky_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L/f_ring_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/palm_ring_L/f_ring_01_L/f_ring_02_L/f_ring_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/forearm_L/hand_L/Thumb_Left
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_L/deltoid_L/upper_arm_L/IK_Left_Hook
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R/f_index_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_index_R/f_index_01_R/f_index_02_R/f_index_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R/f_middle_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R/f_middle_01_R/f_middle_02_R/f_middle_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_middle_R_001
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R/f_pinky_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_pinky_R/f_pinky_01_R/f_pinky_02_R/f_pinky_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R/f_ring_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/palm_ring_R/f_ring_01_R/f_ring_02_R/f_ring_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/forearm_R/hand_R/thumb_01_R/thumb_02_R_001
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/clavicle_R/deltoid_R/upper_arm_R/IK_Right_Hook
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/eye_L
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/eye_R
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw
+        weight: 1
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base/tongue_mid
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/jaw/tongue_base/tongue_mid/tongue_tip
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/lolid_L
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/lolid_R
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/uplid_L
+        weight: 0
+      - path: python/hips/spine/spine-1/chest/chest-1/neck/head/uplid_R
+        weight: 0
+      - path: python/hips/thigh_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: python/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: python/hips/thigh_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: python/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: python/IK_Left_Leg
+        weight: 0
+      - path: python/IK_Left_Leg/IK_Left_Knee
+        weight: 0
+      - path: python/IK_Right_Leg
+        weight: 0
+      - path: python/IK_Right_Leg/IK_Right_Knee
+        weight: 0
+      - path: python_base_humam-base
+        weight: 0
+      - path: python_base_humam-eyebrow001
+        weight: 0
+      - path: python_base_humam-eyelashes01
+        weight: 0
+      - path: python_base_humam-low_poly
+        weight: 0
+      - path: python_base_humam-penis01
+        weight: 0
+      - path: python_base_humam-tongue01
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thigh_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thigh_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shin_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shin_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine-1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: clavicle_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: clavicle_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_arm_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_arm_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: forearm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: forearm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: toe_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: toe_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: eye_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: eye_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index_01_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index_02_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index_03_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle_01_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle_02_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle_03_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_01_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_02_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_03_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky_01_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky_02_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky_03_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_ring_01_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_ring_02_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_ring_03_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index_01_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index_02_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index_03_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle_01_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle_02_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle_03_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_01_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_02_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_03_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky_01_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky_02_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky_03_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_ring_01_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_ring_02_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_ring_03_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Base_Human_RigV0.3(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: python
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 5.96046519e-08, y: 0, z: 0, w: 1}
+      scale: {x: .099999994, y: .099999994, z: .099999994}
+      transformModified: 1
+    - name: hips
+      position: {x: -0, y: 9.09239388, z: .218457013}
+      rotation: {x: -.0598574728, y: -.0598574653, z: -.704568684, w: .704568744}
+      scale: {x: .999999821, y: 1, z: .999999821}
+      transformModified: 1
+    - name: thigh_L
+      position: {x: -.255640507, y: -1.17057192, z: -.203591555}
+      rotation: {x: .0551004298, y: .997051597, z: .0370270014, w: -.0384846739}
+      scale: {x: .999999702, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: shin_L
+      position: {x: -4.02564955, y: 3.88407784e-07, z: 4.03977722e-08}
+      rotation: {x: .000164288722, y: .0657920763, z: 2.44216358e-06, w: .997833371}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: foot_L
+      position: {x: -4.60451794, y: 2.87574636e-07, z: -2.11113456e-08}
+      rotation: {x: .0251314286, y: -.544340253, z: -.0464362353, w: .837201178}
+      scale: {x: .99999994, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: toe_L
+      position: {x: -1.61635995, y: 8.92257006e-08, z: -2.04947916e-08}
+      rotation: {x: -.0119586522, y: -.225012437, z: .0511555374, w: .972938597}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: thigh_R
+      position: {x: -.255640328, y: 1.17057192, z: -.203591555}
+      rotation: {x: -.055100251, y: .997051597, z: -.037027102, w: -.0384855159}
+      scale: {x: .999999642, y: .999999881, z: 1}
+      transformModified: 1
+    - name: shin_R
+      position: {x: -4.02565002, y: 1.48039277e-07, z: 7.38093975e-10}
+      rotation: {x: -.000164280893, y: .0657920837, z: -2.44143894e-06, w: .997833371}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: foot_R
+      position: {x: -4.60451794, y: 2.04748289e-07, z: 8.69097683e-09}
+      rotation: {x: -.025131505, y: -.544340253, z: .0464362279, w: .837201178}
+      scale: {x: 1, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: toe_R
+      position: {x: -1.61635995, y: 4.53543292e-09, z: -1.80553905e-09}
+      rotation: {x: .0119586214, y: -.225012422, z: -.0511555374, w: .972938597}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: spine
+      position: {x: -1.97029662, y: 1.48753301e-07, z: -.0641977116}
+      rotation: {x: -1.07127296e-09, y: -.014189437, z: -5.53479968e-16, w: .999899328}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: spine-1
+      position: {x: -.374795049, y: 2.82961903e-08, z: 6.18214031e-08}
+      rotation: {x: 1.77744919e-11, y: .000235433967, z: 3.0250392e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: chest
+      position: {x: -.375188977, y: 2.8325875e-08, z: 1.91999376e-08}
+      rotation: {x: 2.65971023e-09, y: .0352289304, z: 3.00478755e-15, w: .999379277}
+      scale: {x: .999999821, y: 1, z: .999999821}
+      transformModified: 1
+    - name: chest-1
+      position: {x: -1.66898239, y: 1.26004679e-07, z: 1.15789824e-07}
+      rotation: {x: 1.62216693e-08, y: .21486254, z: 7.75991235e-16, w: .976644337}
+      scale: {x: .999999821, y: 1, z: .999999821}
+      transformModified: 1
+    - name: clavicle_R
+      position: {x: -1.77893591, y: .252268374, z: .646090448}
+      rotation: {x: .543900967, y: -.5000723, z: -.398041695, w: .543748319}
+      scale: {x: .999999702, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: deltoid_R
+      position: {x: -1.25362456, y: 5.5528286e-08, z: -1.97524216e-07}
+      rotation: {x: .319598764, y: -.401975811, z: .266301572, w: .815693319}
+      scale: {x: .999999762, y: 1, z: .99999994}
+      transformModified: 1
+    - name: upper_arm_R
+      position: {x: -.877807856, y: 1.99871991e-07, z: 4.67826908e-07}
+      rotation: {x: .791722, y: -.387695074, z: .0493853502, w: -.469499528}
+      scale: {x: .999999762, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: forearm_R
+      position: {x: -2.52754426, y: 1.57259603e-06, z: 6.78116407e-09}
+      rotation: {x: .00848126691, y: .0265822802, z: .020529937, w: .999399841}
+      scale: {x: .999999881, y: .999999821, z: 1}
+      transformModified: 1
+    - name: hand_R
+      position: {x: -2.52069354, y: 4.3866325e-07, z: -1.92562453e-07}
+      rotation: {x: -.691840529, y: .074060522, z: -.0261908807, w: .717764437}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: palm_pinky_R
+      position: {x: -.459033161, y: .293723255, z: .0140101071}
+      rotation: {x: -.118882567, y: -.0411127061, z: -.166915938, w: .977913976}
+      scale: {x: .99999994, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: f_pinky_01_R
+      position: {x: -.653906226, y: 6.75074432e-08, z: 5.7797638e-07}
+      rotation: {x: .0633511692, y: .0636668876, z: .388053954, w: .917249858}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: f_pinky_02_R
+      position: {x: -.291056722, y: 3.83342353e-08, z: 1.35740876e-07}
+      rotation: {x: .0137788458, y: .0402067974, z: .00232048077, w: .999093652}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: f_pinky_03_R
+      position: {x: -.191180632, y: -2.27444772e-07, z: -4.52667948e-08}
+      rotation: {x: -.013285893, y: .0147075262, z: -.0110824881, w: .99974215}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: palm_middle_R
+      position: {x: -.42358318, y: .0148174968, z: .00798081234}
+      rotation: {x: .0125744222, y: .00361746363, z: .00180662132, w: .999912798}
+      scale: {x: .999999821, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: f_middle_01_R
+      position: {x: -.866770983, y: -6.66048777e-07, z: 3.21217613e-08}
+      rotation: {x: .0266057067, y: .0678887144, z: .206494898, w: .975726962}
+      scale: {x: .999999821, y: 1, z: 1}
+      transformModified: 1
+    - name: f_middle_02_R
+      position: {x: -.430393845, y: 1.13235194e-06, z: 2.34117238e-07}
+      rotation: {x: .00557545992, y: .0386142768, z: .00182918564, w: .999237001}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: f_middle_03_R
+      position: {x: -.336487502, y: -2.34139478e-07, z: -7.14481985e-07}
+      rotation: {x: -.00624515535, y: -.00291334046, z: -.0110048642, w: .999915719}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: palm_ring_R
+      position: {x: -.433700442, y: .193224773, z: .0165510364}
+      rotation: {x: -.0198587384, y: -.0404062308, z: -.0444038846, w: .997998655}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: f_ring_01_R
+      position: {x: -.772102952, y: 4.69464595e-07, z: 2.67500582e-07}
+      rotation: {x: .0573421046, y: .101906344, z: .256470442, w: .959452987}
+      scale: {x: .99999994, y: .999999821, z: 1}
+      transformModified: 1
+    - name: f_ring_02_R
+      position: {x: -.379359126, y: 1.42092645e-07, z: -7.25764551e-07}
+      rotation: {x: .00898008142, y: .0379405394, z: .00401593139, w: .999231637}
+      scale: {x: .99999994, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: f_ring_03_R
+      position: {x: -.319712251, y: 8.00570027e-11, z: -4.54429539e-07}
+      rotation: {x: -.00680029858, y: -.0082239937, z: -.0258409791, w: .999609113}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: thumb_01_R
+      position: {x: -.472134352, y: -.30172807, z: .0672629923}
+      rotation: {x: -.504849613, y: -.0411073193, z: .316119611, w: .802187979}
+      scale: {x: 1, y: .999999821, z: 1}
+      transformModified: 1
+    - name: thumb_02_R
+      position: {x: -.391592115, y: 1.20215446e-07, z: 3.11108835e-07}
+      rotation: {x: -.120211139, y: .0114358943, z: -.0329125859, w: .992136776}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: thumb_03_R
+      position: {x: -.484869748, y: 7.76392767e-07, z: -2.07732057e-07}
+      rotation: {x: .0102437334, y: .0372136571, z: .00351486402, w: .999248683}
+      scale: {x: .999999821, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: thumb_02_R_001
+      position: {x: -.387904644, y: .0661657453, z: -.607976675}
+      rotation: {x: -.119160049, y: .0575800203, z: -.162880898, w: .977729678}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: palm_index_R
+      position: {x: -.396307588, y: -.124455616, z: .0522690713}
+      rotation: {x: -.170944601, y: -.0214258377, z: .103367023, w: .979609191}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: f_index_01_R
+      position: {x: -.929007232, y: 6.43824364e-07, z: -2.40143692e-07}
+      rotation: {x: .0434976853, y: -.019345941, z: .500365734, w: .864504397}
+      scale: {x: .999999762, y: .999999881, z: 1}
+      transformModified: 1
+    - name: f_index_02_R
+      position: {x: -.339970946, y: -1.50142498e-07, z: 4.32633414e-08}
+      rotation: {x: -.00475384761, y: .0385659449, z: -.000653630588, w: .999244511}
+      scale: {x: .99999994, y: 1, z: .999999821}
+      transformModified: 1
+    - name: f_index_03_R
+      position: {x: -.304206699, y: 1.86363422e-07, z: -1.49691431e-07}
+      rotation: {x: .00752922939, y: .0160638224, z: .00375981326, w: .999835551}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: palm_middle_R_001
+      position: {x: -.745758474, y: .373358041, z: -1.02337277}
+      rotation: {x: .0125744212, y: .00361737749, z: .00180658291, w: .999912798}
+      scale: {x: .999999821, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: IK_Right_Hook
+      position: {x: -2.52754426, y: 1.57259603e-06, z: 6.78116407e-09}
+      rotation: {x: .654745758, y: -.196290866, z: .668759525, w: .2924698}
+      scale: {x: .999999881, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: clavicle_L
+      position: {x: -1.77893603, y: -.252268076, z: .646090448}
+      rotation: {x: -.543901086, y: -.5000723, z: .398041725, w: .54374826}
+      scale: {x: .999999702, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: deltoid_L
+      position: {x: -1.25362444, y: -5.31777182e-08, z: -1.97524216e-07}
+      rotation: {x: -.319598794, y: -.401975811, z: -.266301602, w: .815693259}
+      scale: {x: .999999762, y: .999999642, z: .999999881}
+      transformModified: 1
+    - name: upper_arm_L
+      position: {x: -.877807915, y: 1.84650816e-07, z: 5.37207939e-07}
+      rotation: {x: .791722178, y: .387695044, z: .0493853986, w: .469499469}
+      scale: {x: .999999523, y: .999999762, z: .999999821}
+      transformModified: 1
+    - name: forearm_L
+      position: {x: -2.52754426, y: -7.36412801e-07, z: 3.14754089e-08}
+      rotation: {x: -.00848120078, y: .0265817083, z: -.0205303151, w: .9993999}
+      scale: {x: .99999994, y: .999999881, z: 1}
+      transformModified: 1
+    - name: hand_L
+      position: {x: -2.52069354, y: 3.60992715e-07, z: -4.29119638e-08}
+      rotation: {x: .691827595, y: .074159205, z: .0263271127, w: .717761636}
+      scale: {x: .999999821, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: palm_pinky_L
+      position: {x: -.458650231, y: -.260415047, z: .00370051991}
+      rotation: {x: .1213056, y: -.0291269664, z: .189367458, w: .973948956}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: f_pinky_01_L
+      position: {x: -.66442132, y: 8.33948945e-08, z: 5.18931813e-07}
+      rotation: {x: -.0618050359, y: .0499396324, z: -.407839, w: .909589767}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: f_pinky_02_L
+      position: {x: -.291057408, y: -2.24934809e-07, z: 1.05610781e-07}
+      rotation: {x: -.0137789473, y: .040202044, z: -.00232031755, w: .99909395}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: f_pinky_03_L
+      position: {x: -.191180229, y: 2.39216178e-07, z: -2.3059161e-07}
+      rotation: {x: .0132859116, y: .0147075132, z: .0110824676, w: .99974215}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: palm_index_L
+      position: {x: -.396307439, y: .124456286, z: .0522690304}
+      rotation: {x: .170944601, y: -.0214258768, z: -.103367053, w: .979609191}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: f_index_01_L
+      position: {x: -.929007173, y: -3.67609147e-07, z: -1.45857442e-07}
+      rotation: {x: -.0434286259, y: -.019335581, z: -.499702603, w: .864891529}
+      scale: {x: .999999821, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: f_index_02_L
+      position: {x: -.339971423, y: 5.11115559e-07, z: -7.96407448e-07}
+      rotation: {x: .00475385226, y: .0385638513, z: .000652081391, w: .99924463}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: f_index_03_L
+      position: {x: -.304206967, y: -6.93674224e-07, z: 2.64292879e-07}
+      rotation: {x: -.00752923451, y: .0160638187, z: -.00375981163, w: .999835551}
+      scale: {x: 1, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: palm_ring_L
+      position: {x: -.43302992, y: -.156780079, z: .00874570943}
+      rotation: {x: .00918656308, y: -.0354484953, z: .0672833845, w: .99706167}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: f_ring_01_L
+      position: {x: -.776186168, y: -4.43697445e-07, z: 5.1578445e-07}
+      rotation: {x: -.0442999601, y: .0997901484, z: -.277331352, w: .954550624}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: f_ring_02_L
+      position: {x: -.379359365, y: 1.10784235e-07, z: 1.74699409e-07}
+      rotation: {x: -.00898016896, y: .0379336551, z: -.00401641103, w: .999231875}
+      scale: {x: .999999881, y: 1, z: .999999881}
+      transformModified: 1
+    - name: f_ring_03_L
+      position: {x: -.319712639, y: 2.45444312e-07, z: 5.7522675e-07}
+      rotation: {x: .0068002888, y: -.00822399277, z: .025840994, w: .999609113}
+      scale: {x: .999999821, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: palm_middle_L
+      position: {x: -.423583061, y: -.0148168243, z: .00798077416}
+      rotation: {x: -.012574411, y: .00361746154, z: -.00180662726, w: .999912798}
+      scale: {x: .999999821, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: f_middle_01_L
+      position: {x: -.866770208, y: -1.091977e-07, z: 3.08633162e-07}
+      rotation: {x: -.0265610032, y: .0676371902, z: -.205794647, w: .975893557}
+      scale: {x: .999999821, y: 1, z: 1}
+      transformModified: 1
+    - name: f_middle_02_L
+      position: {x: -.430393398, y: -3.54826909e-07, z: -6.60497719e-08}
+      rotation: {x: -.00557543524, y: .0386129916, z: -.00182978611, w: .999237061}
+      scale: {x: 1, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: f_middle_03_L
+      position: {x: -.336487204, y: 3.34877654e-08, z: -4.80515098e-07}
+      rotation: {x: .00624513905, y: -.00291334279, z: .0110048736, w: .999915719}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: thumb_01_L
+      position: {x: -.472872376, y: .301255375, z: .0670637041}
+      rotation: {x: .505115211, y: -.0412262864, z: -.315587074, w: .802224278}
+      scale: {x: .99999994, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: thumb_02_L
+      position: {x: -.391387969, y: 3.05983804e-07, z: 6.12096301e-07}
+      rotation: {x: .120681256, y: .0117167486, z: .032814417, w: .992079616}
+      scale: {x: 1, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: thumb_03_L
+      position: {x: -.484810829, y: -3.5702007e-07, z: 6.43540488e-07}
+      rotation: {x: -.0110283336, y: .0366344266, z: -.00293440954, w: .999263585}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Hand_Left
+      position: {x: -.745758414, y: -.373357266, z: -1.02337277}
+      rotation: {x: -.012574411, y: .00361737562, z: -.00180658919, w: .999912798}
+      scale: {x: .999999821, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: Thumb_Left
+      position: {x: -.550400019, y: 1.0214206, z: .0472080484}
+      rotation: {x: .643144965, y: .0437721647, z: -.335789204, w: .686799943}
+      scale: {x: .999999881, y: 1, z: .999999881}
+      transformModified: 1
+    - name: IK_Left_Hook
+      position: {x: -2.52754426, y: -7.36412801e-07, z: 3.14754089e-08}
+      rotation: {x: .654745996, y: .19629015, z: .668759763, w: -.292469174}
+      scale: {x: .999999821, y: .999999821, z: 1}
+      transformModified: 1
+    - name: neck
+      position: {x: -2.44269729, y: 1.84418454e-07, z: -.000477491412}
+      rotation: {x: -1.27876252e-08, y: -.169377223, z: 1.54263536e-15, w: .985551298}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: head
+      position: {x: -1.15319204, y: 8.70637749e-08, z: -3.75367151e-08}
+      rotation: {x: 2.47365661e-09, y: .0327645764, z: -3.09959997e-15, w: .999463141}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: jaw
+      position: {x: .0407599621, y: -3.07723602e-09, z: .603867173}
+      rotation: {x: 7.45396349e-08, y: .98730737, z: -3.06976651e-16, w: .158821121}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: tongue_base
+      position: {x: -.443265766, y: 3.34655468e-08, z: -1.61983223e-07}
+      rotation: {x: -4.87669531e-08, y: -.645937979, z: -7.67371786e-15, w: .763389885}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: tongue_mid
+      position: {x: -.324638069, y: 2.45094949e-08, z: 3.21715902e-07}
+      rotation: {x: 5.20645971e-09, y: .0689616427, z: -5.31067053e-16, w: .997619331}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: tongue_tip
+      position: {x: -.225719675, y: 1.70413585e-08, z: 1.17930222e-06}
+      rotation: {x: 1.83436146e-08, y: .242968529, z: -3.03639871e-16, w: .970034182}
+      scale: {x: .999999821, y: 1, z: .999999821}
+      transformModified: 1
+    - name: uplid_L
+      position: {x: -.326863021, y: -.327299923, z: 1.32035029}
+      rotation: {x: 5.141138e-08, y: .659621596, z: -1.41413337e-09, w: .751597881}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: eye_R
+      position: {x: -.326183915, y: .320489705, z: 1.32023776}
+      rotation: {x: -.121574871, y: .723275661, z: .0585844964, w: .677244306}
+      scale: {x: 1, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: eye_L
+      position: {x: -.326183945, y: -.320489645, z: 1.32023776}
+      rotation: {x: .121574998, y: .723275542, z: -.0585845299, w: .677244306}
+      scale: {x: .99999994, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: lolid_L
+      position: {x: -.326446652, y: -.329399973, z: 1.32021713}
+      rotation: {x: 6.41244853e-08, y: .839958966, z: -1.0979837e-09, w: .542650044}
+      scale: {x: .999999821, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: uplid_R
+      position: {x: -.326011479, y: .325800031, z: 1.32094753}
+      rotation: {x: 4.9700521e-08, y: .649962425, z: -5.38559586e-10, w: .759966373}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: lolid_R
+      position: {x: -.326446593, y: .329400033, z: 1.32021713}
+      rotation: {x: 6.27058228e-08, y: .839958966, z: 1.09795539e-09, w: .542650044}
+      scale: {x: .999999821, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: IK_Left_Arm
+      position: {x: -2.09678578, y: -5.02143908, z: 2.12145042}
+      rotation: {x: -4.86743303e-08, y: -.644711256, z: 9.44723629e-15, w: .764426172}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IK_Right_Arm
+      position: {x: -2.09678507, y: 5.02143908, z: 2.12145042}
+      rotation: {x: -4.86743303e-08, y: -.644711256, z: 9.44723629e-15, w: .764426172}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IK_Left_Leg
+      position: {x: -2.04288125, y: .744112968, z: .126423255}
+      rotation: {x: .5, y: .5, z: .5, w: -.5}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: IK_Left_Knee
+      position: {x: .200499207, y: .441457897, z: 4.57891846}
+      rotation: {x: -0, y: 0, z: -1.74532925e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IK_Right_Leg
+      position: {x: 2.04288125, y: .744112968, z: .126423255}
+      rotation: {x: .5, y: .5, z: .5, w: -.5}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: IK_Right_Knee
+      position: {x: .200499132, y: -.441457927, z: 4.57891846}
+      rotation: {x: -0, y: 0, z: -1.74532925e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: python_base_humam-base
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -1.23918379e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: python_base_humam-eyebrow001
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -1.23918379e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: python_base_humam-eyelashes01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -1.23918379e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: python_base_humam-low_poly
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -1.23918379e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: python_base_humam-penis01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -1.23918379e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: python_base_humam-tongue01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -1.23918379e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

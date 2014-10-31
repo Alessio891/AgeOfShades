@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c5020239c42d82d4a849f4e5bed6301c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CutsceneCamera: {fileID: 100000, guid: 57e9aa6e221e0d743b8d9e45eb0e3050, type: 2}
+  - PlayerCamera: {fileID: 100000, guid: 28a53c3c71e96c240b28ca36b8230e82, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
